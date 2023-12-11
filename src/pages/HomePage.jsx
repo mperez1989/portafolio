@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <div className="home__container dark:bg-neutral-900">
       <div>
-        <img className="image" src="./public/marco_perez.jpeg" alt="" />
+        <img className="image" src="/marco_perez.jpeg" alt="" />
       </div>
       <h1>Hola, soy <span className="name">MARCO PEREZ</span></h1>
       
