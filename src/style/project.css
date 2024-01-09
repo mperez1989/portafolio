@@ -60,3 +60,13 @@ img {
     background-color: white;
     color: black;
 }
+@media(min-width: 800px) {
+    .projects__container {
+        margin-top: 1.5em;
+        height: 30em;
+    }
+    .main__container {
+        height: 90vh;
+    }
+
+}

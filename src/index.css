@@ -89,8 +89,19 @@ h3 {
 }
 @media(min-width: 1000px) {
     .habilities__container {
+        margin-top: 0.5em;
         height: 7em;
 
+    }
+    .habilities {
+        padding-top: 0;
+        top: 1em;
+    }
+    .habilities__blandas__container {
+        margin-top: 1em;
+    }
+    .habilities__main {
+        height: 90vh;
     }
 
 }

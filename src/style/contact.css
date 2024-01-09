@@ -1,6 +1,6 @@
 .contact {
     width: 100%;
-    height: 94vh;
+    height: 92vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,3 +77,9 @@
     color: rgb(74, 153, 100);
     
 }
+@media(min-width: 800px) {
+    .contact {
+        height: 90vh;
+    }
+}
+
