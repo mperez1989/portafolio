@@ -13,7 +13,7 @@
 
 .projects__container {
     width: 18em;
-    height: 28em;
+    height: 30em;
     border-radius: 0.5em;
     border: 1px solid #157032;
     display: flex;
@@ -22,7 +22,7 @@
     align-items: center;
     gap: 1em;
     font-family: 'Urbanist';
-    margin-top: 5em;
+    margin-top: 6em;
 }
 img {
     width: 15em;
