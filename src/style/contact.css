@@ -3,6 +3,8 @@
     height: 90vh;
     display: flex;
     align-items: center;
+    justify-content: center;
+
 }
 .dark {
     color: white;
@@ -18,6 +20,7 @@
     width: 18em;
     height: 23em;
     margin: 0 auto;
+    margin-top: 0;
 }
 .text__title {
     position: relative;
