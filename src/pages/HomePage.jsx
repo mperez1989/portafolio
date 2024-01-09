@@ -14,7 +14,7 @@ const HomePage = () => {
       </div>
       
       
-      <button className="home__curriculum"><Link to='https://drive.google.com/file/d/1a7tS-g6WDzQv89aGb78BAIzqV6quIct7/view?usp=sharing' target="_blank">Curriculum</Link></button>
+      <button className="home__curriculum"><Link to='https://drive.google.com/file/d/1tUMMlczqOup0gtbGveBqhT6_2L6hgAwp/view?usp=sharing' target="_blank">CV</Link></button>
      
       
     </div>

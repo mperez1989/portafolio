@@ -22,7 +22,7 @@ const ContactPage = () => {
         </div>
         <div className="contact__whatsapp contact_items">
             <ion-icon  name="logo-whatsapp"></ion-icon>
-            <Link className="whatsapp" to='https://api.whatsapp.com/send?phone=5582988505785' target="_blank">(+55)82-98850-5785</Link>
+            <Link className="whatsapp" to='https://api.whatsapp.com/send?phone=558291846948' target="_blank">(+55)82-99184-6948</Link>
         </div>
      </div>
      </div>

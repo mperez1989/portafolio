@@ -34,7 +34,7 @@ const NavBar = () => {
           <button onClick={handleChameTheme} className="btn_change dark:text-white dark:bg-slate-300"> Change Theme</button>
         </div>
         <div className='logo'>
-        <Link to='https://api.whatsapp.com/send?phone=51997413997' target="_blank">
+        <Link to='https://api.whatsapp.com/send?phone=558291846948' target="_blank">
           <ion-icon  name="logo-whatsapp"></ion-icon>
         </Link>
       </div>
