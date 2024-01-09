@@ -1,18 +1,19 @@
 .main__container {
-    height: 90vh;
+    height: auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 1.5em;
+    gap: 2.5em;
+    
 }
 .projects__container:hover {
     transform: scale(1.1);
 }
 
 .projects__container {
-    width: 20em;
-    height: 30em;
+    width: 18em;
+    height: 28em;
     border-radius: 0.5em;
     border: 1px solid #157032;
     display: flex;
@@ -21,6 +22,7 @@
     align-items: center;
     gap: 1em;
     font-family: 'Urbanist';
+    margin-top: 5em;
 }
 img {
     width: 15em;
