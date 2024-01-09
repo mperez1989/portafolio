@@ -8,7 +8,7 @@
 
 .home__presentation {
     font-family: 'Urbanist';
-    margin:2em;
+    margin:1em;
     display: grid;
     justify-content: center;
     align-items: center;
@@ -81,7 +81,7 @@ ion-icon:hover {
 }
 .image {
     width: 100%;
-    margin-top: 2.5em;
+    margin-top: 5em;
 }
 @media(min-width: 700px) {
     .home__presentation__container {
