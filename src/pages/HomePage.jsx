@@ -10,7 +10,7 @@ const HomePage = () => {
       <h1>Hola, soy <span className="name">MARCO PEREZ</span></h1>
       
       <div className="home__presentation__container">
-          <p className="home__presentation">Como Desarrollador FULL STACK junior, domino las tecnologías esenciales en , FRONTEND y BACKEND, incluyendo HTML, CSS, JavaScript, React.js y Node.js. Mi enfoque versátil me permite contribuir en todas las fases del desarrollo, desde la creación de interfaces atractivas hasta la implementación de funcionalidades robustas en el backend. Con una sólida base técnica y una actitud proactiva, estoy listo para aprender y crecer en cualquier proyecto que se me presente.</p>
+          <p className="home__presentation">Soy un Frontend Developer Junior apasionado por crear experiencias web cautivadoras. Tengo habilidades sólidas en HTML, CSS, JavaScript, React.js y con conocimiento en Node.js, y me esfuerzo por mantenerme al tanto de las últimas tendencias y mejores prácticas en desarrollo web. estoy emocionado de contribuir con mi creatividad y aprendizaje constante para impulsar proyectos innovadores.  </p>
       </div>
       
       
